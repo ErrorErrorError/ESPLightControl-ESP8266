@@ -1,0 +1,11 @@
+{
+    "terminal.integrated.env.osx": {
+        "PATH": "/Users/erikb/.platformio/penv/bin:/Users/erikb/.platformio/penv:/usr/local/opt/cython/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/Applications/Wireshark.app/Contents/MacOS",
+        "PLATFORMIO_CALLER": "vscode"
+    },
+    "files.associations": {
+        "new": "cpp",
+        "functional": "cpp",
+        "type_traits": "cpp"
+    }
+}
